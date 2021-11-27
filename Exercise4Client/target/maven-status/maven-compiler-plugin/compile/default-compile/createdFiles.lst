@@ -1,0 +1,10 @@
+com/montrealcollege/service/EmployeeService.class
+com/montrealcollege/ws/client/generated/Employee.class
+com/montrealcollege/ws/client/generated/CreateEmployeeService.class
+com/montrealcollege/ws/client/generated/CreateEmployee.class
+com/montrealcollege/config/ServletInitializer.class
+com/montrealcollege/config/WebServiceConfig.class
+com/montrealcollege/ws/client/generated/ObjectFactory.class
+com/montrealcollege/ws/client/generated/package-info.class
+com/montrealcollege/ws/client/generated/CreateResponse.class
+com/montrealcollege/controller/ClientController.class
