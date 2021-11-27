@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.montrealcollege.com/employee" 
+        xmlns:tns="http://www.montrealcollege.com/employee" elementFormDefault="qualified">
+    <element name="CreateRequest" type="tns:Employee"></element>
+    <complexType name="Employee">
+        <sequence>
+            <element name="firstName" type="string"></element>
+            <element name="lastName" type="string"></element>
+            <element name="salary" type="integer"></element>
+        </sequence>
+    </complexType>
+      
+    <element name="CreateResponse">
+        <complexType>
+            <sequence>
+                <element name="response" type="string"></element>
+            </sequence>
+        </complexType>
+    </element>
+</schema>

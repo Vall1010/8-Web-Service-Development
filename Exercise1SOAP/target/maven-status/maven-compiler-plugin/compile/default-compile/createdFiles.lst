@@ -1,0 +1,5 @@
+org/example/hello/ObjectFactory.class
+com/montrealcollege/exercise1ws/endpoint/HelloEndpoint.class
+org/example/hello/package-info.class
+org/example/hello/HelloRequest.class
+org/example/hello/HelloResponse.class

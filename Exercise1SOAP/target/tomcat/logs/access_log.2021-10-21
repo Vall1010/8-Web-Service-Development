@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [21/Oct/2021:18:05:35 -0400] "GET /Exercise1WS/hello.wsdl HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [21/Oct/2021:18:05:51 -0400] "GET /Exercise1SOAP/hello.wsdl HTTP/1.1" 200 2115 http-bio-8080-exec-2 943

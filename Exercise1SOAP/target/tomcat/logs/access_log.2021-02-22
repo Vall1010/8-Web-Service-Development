@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [22/Feb/2021:19:46:53 -0500] "GET /Exercise1SOAP HTTP/1.1" 405 - http-bio-8080-exec-1 1476
+0:0:0:0:0:0:0:1 - - [22/Feb/2021:19:46:54 -0500] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [22/Feb/2021:19:47:03 -0500] "GET /Exercise1SOAP/hello.wsdl HTTP/1.1" 200 2115 http-bio-8080-exec-2 75
+0:0:0:0:0:0:0:1 - - [22/Feb/2021:19:47:03 -0500] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [22/Feb/2021:20:25:57 -0500] "GET /Exercise1SOAP/hello.wsdl HTTP/1.1" 200 2115 http-bio-8080-exec-1 1346
